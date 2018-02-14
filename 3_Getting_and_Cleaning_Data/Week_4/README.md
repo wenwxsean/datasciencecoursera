@@ -1,0 +1,1 @@
+This repo contains the tidied dataset from the Getting and Cleaning Data Course Project as well as the code to reproduce this tidied dataset (Run_analysis.R) and a Codebook containing a brief description of the variables included in the tidied dataset.
